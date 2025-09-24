@@ -1,5 +1,4 @@
-let numA = 30
-let numB = 20   
+let name = "Cesart"
+let salute = "hello" + name 
 
-let res = numB + numA 
-console.log(res)
+console.log(salute)
